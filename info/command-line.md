@@ -11,3 +11,5 @@ username@hostname:current_directory
 
 pete@icebox:/home/pete $
 ```
+
+Left off on move https://linuxjourney.com/lesson/move-mv-command

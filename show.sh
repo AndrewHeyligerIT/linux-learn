@@ -2,12 +2,21 @@
 # contents of a file. Also combines  multiple files
 $ cat <filename>
 
-# See what kind of file a file is
+# history of your files 
+history
+
+#history of your files all-time
+less ~/.bash_history
+
+
+
+
+# what kind of file a file is
 $ file banana.jpg
 
-$
 
-#show file content one at a time
+
+# file content one page at a time
 $ less filename
 
 
